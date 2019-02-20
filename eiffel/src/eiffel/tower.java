@@ -9,7 +9,7 @@ public class tower {
 	{
 		
 		
-		System.out.println("france");
+		System.out.println("love india");
 	}
 
 }
