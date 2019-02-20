@@ -9,7 +9,7 @@ public class tower {
 	{
 		
 		
-		System.out.println("love india am");
+		System.out.println("love india amcsd");
 	}
 
 }
